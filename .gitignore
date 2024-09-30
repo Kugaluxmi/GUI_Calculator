@@ -1,0 +1,11 @@
+.log
+temp/
+.exe
+.venv
+.Python
+build/
+dist/
+.spec
+__pycache__/
+*.py[cod]
+*$py.class
